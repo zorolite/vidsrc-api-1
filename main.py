@@ -51,4 +51,4 @@ async def subs(url: str):
 
 @app.get('/info')
 async def vidsrc():
-    return {'info':'This api is a fork of api written by github.com/cool-dev-guy.'}
+    return {'info':'This api is a fork of api written by Madmax'}
